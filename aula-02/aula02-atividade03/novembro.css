@@ -1,0 +1,32 @@
+.calendario-novembro {
+    background-image: url(imagens/consciencia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.novembro-mes {
+    font-size: 1.8em;
+}
+
+.tabela-novembro {
+    background-color: rgba(94, 51, 2, 0.705);
+    border-radius: 10px;
+}
+
+.finado {
+    color: red
+}
+
+.proclamaçao {
+    color: red;
+}
+
+.consciencia {
+    color: red;
+}

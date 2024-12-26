@@ -1,0 +1,41 @@
+body .dezembro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dezembro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagens/natal.png);
+    background-repeat: no-repeat;
+    background-size:  contain;
+    background-position: center;
+    border-radius: 20px;
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+    height: 500px;
+}
+
+.tabela-dezembro {
+   background-color: rgba(0, 99, 99, 0.432);
+   border-radius: 10px;
+   text-align: center;
+   
+}
+.dezembro-mes {
+    font-size: 1.7em;
+}
+
+.natal {
+    color: rgb(129, 3, 3);
+}
+
+.natal2 {
+    color: rgb(153, 7, 7);
+    display: flex;
+    justify-content: flex-start;
+    font-size: 21px;
+}
+

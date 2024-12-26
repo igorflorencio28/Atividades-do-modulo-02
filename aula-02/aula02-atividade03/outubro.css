@@ -1,0 +1,33 @@
+.calendario-outubro {
+    background-image: url(imagens/halloween2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.outubro-mes {
+    font-size: 1.8em;
+}
+
+.tabela {
+    background-color: rgba(94, 51, 2, 0.705);
+    border-radius: 10px;
+}
+
+.criança {
+    color: red;
+    
+}
+
+.bruxa {
+    color: red;
+}
+
+abbr {
+    text-decoration: none;
+}
